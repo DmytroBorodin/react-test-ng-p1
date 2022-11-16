@@ -9,7 +9,7 @@ env:
 
 on:
   push:
-    branches: ["master"]
+    branches: ["master", "open_js_config"]
   pull_request:
     branches: ["master"]
 
